@@ -30,7 +30,7 @@ ExportedObj/
 # Unity3D generated meta files
 *.pidb.meta
 
-/Assets/FERM/
-/Assets/FERM.meta
+/Assets/FERM/Scripting/
+/Assets/FERM/Icons/
 
 /Recordings/
