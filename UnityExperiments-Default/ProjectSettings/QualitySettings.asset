@@ -18,11 +18,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
-<<<<<<< HEAD
     skinWeights: 1
-=======
-    blendWeights: 1
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
     textureQuality: 1
     anisotropicTextures: 0
     antiAliasing: 0
@@ -57,11 +53,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
-<<<<<<< HEAD
     skinWeights: 2
-=======
-    blendWeights: 2
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
     textureQuality: 0
     anisotropicTextures: 0
     antiAliasing: 0
@@ -96,11 +88,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
-<<<<<<< HEAD
     skinWeights: 2
-=======
-    blendWeights: 2
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
     textureQuality: 0
     anisotropicTextures: 1
     antiAliasing: 0
@@ -135,11 +123,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
     skinWeights: 2
-=======
-    blendWeights: 2
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
     textureQuality: 0
     anisotropicTextures: 1
     antiAliasing: 0
@@ -174,11 +158,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
     skinWeights: 4
-=======
-    blendWeights: 4
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
     textureQuality: 0
     anisotropicTextures: 2
     antiAliasing: 2
@@ -213,11 +193,7 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
-    skinWeights: 4
-=======
-    blendWeights: 4
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
+    skinWeights: 255
     textureQuality: 0
     anisotropicTextures: 2
     antiAliasing: 2
@@ -240,20 +216,14 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     excludedTargetPlatforms: []
-<<<<<<< HEAD
-  m_PerPlatformDefaultQuality: {}
-=======
   m_PerPlatformDefaultQuality:
     Android: 2
     Lumin: 5
-    Nintendo 3DS: 5
     Nintendo Switch: 5
     PS4: 5
-    PSP2: 2
     Standalone: 5
     WebGL: 3
     Windows Store Apps: 5
     XboxOne: 5
     iPhone: 2
     tvOS: 2
->>>>>>> 43db96628fdd550a68782b7be826cf4530d30742
